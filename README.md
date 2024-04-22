@@ -24,10 +24,12 @@ There are seven columns and player must select one column using keyboard numbers
 
 ### Game ending :
 1. If you lose the game, this image will be displayed :
-    ![LOSER](https://github.com/mdanialh/connect4_AI_game/assets/93985097/c0ece70b-9463-474c-8b36-0248d13a337a)
-2. If you win the game :
 
-   <img width="500" alt="WON" src="https://github.com/mdanialh/connect4_AI_game/assets/93985097/7b88c7ee-f760-4c8a-9583-31af3b3fc3b6">
+![LOSER](https://github.com/mdanialh/connect4_AI_game/assets/93985097/c0ece70b-9463-474c-8b36-0248d13a337a)
+
+3. If you win the game :
+
+<img width="500" alt="WON" src="https://github.com/mdanialh/connect4_AI_game/assets/93985097/7b88c7ee-f760-4c8a-9583-31af3b3fc3b6">
 
 3. And if the game ends in a draw :
 
